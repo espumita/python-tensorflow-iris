@@ -1,1 +1,2 @@
-fsi2
+# Fundamentos de los Sistemas Inteligentes
+Prácticas de Fundamentos de los Sistemas Inteligentes
